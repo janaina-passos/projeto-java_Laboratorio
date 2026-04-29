@@ -87,6 +87,25 @@ O sistema é composto pelas seguintes classes:
 - Cálculo e exibição da data de liberação dos resultados
 
 ### Consultar Paciente
-- 
+- Busca por CPF no vetor de pedidos do dia
+- Exibição dos dados do paciente, exames solicitados e data de liberação
+- Mensagem de erro caso o paciente não seja encontrado
+
+
+### Finalização dos Atendimentos 
+- Gravação de todos os pedidos do dia em arquivo '.TXT'
+- Formato de cada linha:
+  '''
+  CPF; NOME; DATA_REALIZACAO; DATA_LIBERACAO; ABREVI1; ABREV2;....
+  '''
+
+  ### Estatísticas
+  - Exibição de estatísticas gerais sobre os atendimentos e exames do dia
+ 
+  ### Sair
+  - Exibe os nomes dos integrantes e encerra a aplicação
+
+  ## Formato do Arquivo de Entrada
+  
 
 
