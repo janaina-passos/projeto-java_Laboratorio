@@ -99,13 +99,31 @@ O sistema é composto pelas seguintes classes:
   CPF; NOME; DATA_REALIZACAO; DATA_LIBERACAO; ABREVI1; ABREV2;....
   '''
 
-  ### Estatísticas
-  - Exibição de estatísticas gerais sobre os atendimentos e exames do dia
+### Estatísticas
+- Exibição de estatísticas gerais sobre os atendimentos e exames do dia
  
-  ### Sair
-  - Exibe os nomes dos integrantes e encerra a aplicação
+### Sair
+- Exibe os nomes dos integrantes e encerra a aplicação
 
-  ## Formato do Arquivo de Entrada
-  
+## Tecnologias Utilizadas
+
+> Java
+
+> Programação Orientada a Objetos
+
+> Listas lineares implementadas manualmente
+
+> Estrutura de dados (ArrayList)
+
+> 'java.time.LocalDate' e 'DateTimeFormatter' para manipulação de datas
+
+> 'BuferedReader / ' BufferedWriter' para leitura e gravação de arquivos
+
+## Como Executar 
+
+1. Compile todos os arquivos **.java**
+2. Execute a classe **Laboratorio**
+3. Utilize o menu interativo no terminal
+
 
 
